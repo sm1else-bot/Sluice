@@ -1,4 +1,4 @@
-# logparser — Pybind11 C++ Accelerator for High-Throughput Log Parsing
+# Sluice Log Parser - Pybind11 C++ Accelerator for High-Throughput Log Parsing
 
 C++ telemetry log parser exposed to Python via Pybind11. Returns a **structured NumPy array** directly — zero intermediate Python objects, one memcpy.
 
